@@ -1,0 +1,1 @@
+usable_gpu = [0]
